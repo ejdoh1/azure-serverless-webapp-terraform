@@ -1,0 +1,5 @@
+.env
+.terraform
+functions/functions.zip
+.vscode
+terraform.tfstate*
